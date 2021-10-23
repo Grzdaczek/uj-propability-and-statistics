@@ -1,6 +1,6 @@
 # Zadanie 2.8
 
-Jako iż nie mogłem znieść tego jak wolno działał program napisany w pythonie, został przepisany na rusta. Rysowanie wykresu dalej (ponieważ jest wygodniejsze) odbywa się w pythonie.
+Ponieważ implementacja w pythonie była bardzo wolna, program został przepisany na rusta. Rysowanie wykresu dalej (ponieważ jest wygodniejsze) odbywa się w pythonie.
 
 ## Wymagania
 - python3
