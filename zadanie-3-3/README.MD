@@ -1,6 +1,6 @@
 # Zadanie 2.8
 
-![Zadana funkcja](./fn.svg?raw=true "Zadana funkcja")
+<div align="left"><img style="background: white;" src="./fn.svg"></div>
 
 Program generuje zestawy próbek zmiennej losowej, 
 kożystając z generatora liczb losowych o dystrybucji jednorodnej i odwrotności dystrybuanty
