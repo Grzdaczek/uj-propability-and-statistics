@@ -14,4 +14,4 @@ Cargo.lock
 *.pdb
 
 # CSV data
-data.csv
+*.csv
